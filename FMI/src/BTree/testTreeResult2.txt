@@ -1,0 +1,54 @@
+<pre><p>     Testing...
+Height of the tree: 5
+     Tree breadth-first traversal:
+     Level #: 0
+(zero,0)
+     Level #: 1
+(one,1)
+     Level #: 2
+(four,4)
+(two,2)
+     Level #: 3
+(five,5)
+(nine,9)
+(three,3)
+     Level #: 4
+(eight,8)
+(six,6)
+     Level #: 5
+(seven,7)
+     Tree inorder traversal:
+(eight,8)
+(five,5)
+(four,4)
+(nine,9)
+(one,1)
+(seven,7)
+(six,6)
+(three,3)
+(two,2)
+(zero,0)
+     Tree preorder traversal:
+(zero,0)
+(one,1)
+(four,4)
+(five,5)
+(eight,8)
+(nine,9)
+(two,2)
+(three,3)
+(six,6)
+(seven,7)
+     Tree postorder traversal:
+(eight,8)
+(five,5)
+(nine,9)
+(four,4)
+(seven,7)
+(six,6)
+(three,3)
+(two,2)
+(one,1)
+(zero,0)
+Done!
+</p></pre>

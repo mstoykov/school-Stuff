@@ -1,0 +1,52 @@
+     Testing...
+Height of the tree: 4
+     Tree breadth-first traversal:
+     Level #: 0
+Word2
+     Level #: 1
+Word10
+Word7
+     Level #: 2
+Word1
+Word2
+Word5
+Word9
+     Level #: 3
+Word7
+Word8
+     Level #: 4
+Word7
+     Tree inorder traversal:
+Word1
+Word10
+Word2
+Word2
+Word5
+Word7
+Word7
+Word7
+Word8
+Word9
+     Tree preorder traversal:
+Word2
+Word10
+Word1
+Word2
+Word7
+Word5
+Word7
+Word7
+Word9
+Word8
+     Tree postorder traversal:
+Word1
+Word2
+Word10
+Word7
+Word7
+Word5
+Word8
+Word9
+Word7
+Word2
+Done!
